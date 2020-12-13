@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: GPL-3.0
-// Added to github repository 121320
+// Added to github repository December 13th
 pragma solidity >0.5.99 <0.8.0;
 
 contract Coin {
