@@ -1,1 +1,1 @@
-# solidity_lessons
+# solidity lessons and example files
