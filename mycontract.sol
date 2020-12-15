@@ -4,7 +4,7 @@
  /** @title Hachama  */
  contract MyContract {
      string public constant stringValue = "hachama";
-     string public value2;
+     string public secondValue;
      bool public myBool = true;
      
      // Interger type, can be signed (i.e. it can be negative)
@@ -15,11 +15,11 @@
      
      
      constructor() public {
-         value2 = "chama";
+         secondValue = "chama";
      }
      
-     function set(string memory _value2) public {
-         value2 = _value2;
+     function set(string memory _secondValue) public {
+         secondValue = _secondValue;
      }
      
  }
